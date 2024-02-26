@@ -1,6 +1,8 @@
 # ¡Hola! Soy José Luis Caballero
 
-¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado desarrollador de aplicaciones web con poca experiencia laboral. Graduado en Desarrollo de Aplicaciones Web en el I.E.S Mar de Cádiz.
+¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado desarrollador de aplicaciones web con poca experiencia laboral. 
+
+Graduado en Desarrollo de Aplicaciones Web en el I.E.S Mar de Cádiz.
 
 ## Acerca de mí
 
