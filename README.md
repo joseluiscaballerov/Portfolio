@@ -22,7 +22,7 @@ Soy un desarrollador web con un enfoque en el desarrollo frontend. Me encanta tr
 - 📧 Puedes enviarme un correo electrónico a: joseluiscaballerow@gmail.com
 - 💬 Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/joseluiscaballerow)
 - 🐦 Sígueme en [X](https://twitter.com/josecaballerow)
-- 🌐 Visita mi [sitio web personal]([https://www.joseluiscaballero.com](https://joseluiscaballerow.vercel.app/))
+- 🌐 Visita mi [sitio web personal](https://joseluiscaballerow.vercel.app/)
 
 ## Datos curiosos
 
